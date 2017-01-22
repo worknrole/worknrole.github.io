@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.text_center {
+	text-align: center;
+}
+
+.content_link {
+	color: #4da6ff;
+	text-decoration: underline;
+}
+
+p {
+	text-align: justify;
+}

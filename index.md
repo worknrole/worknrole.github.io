@@ -25,6 +25,19 @@
 </p>
    
 
+<p class="subtitle">&#126; Google Services:</p>
+
+<div class="cover">
+	<a target="blank" href="{{ site.googlesampleurl }}maps">
+		<img src="assets/img/cover/googlemaps.jpg"/>
+	</a>
+	
+	<div class="ellipsis">Google Maps</div>
+</div>
+
+<div class="break_float"/>
+   
+
 <p class="subtitle">&#126; Testing process:</p>
 
 <div class="cover">
@@ -34,6 +47,7 @@
 </div>
 
 <div class="break_float"/>
+
 
 <p class="subtitle">&#126; External libraries:</p>
 

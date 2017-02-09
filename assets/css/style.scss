@@ -87,3 +87,12 @@ div.ellipsis {
 div.break_float {
 	clear: both;
 }
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+p.subtitle {
+	font-style: italic;
+}

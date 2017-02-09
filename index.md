@@ -1,6 +1,9 @@
 # Repositories
 
-<a href="https://github.com/worknrole/android-design" class="content_link" target="_blank">android-design</a>: Contains some user interfaces implementation. Trying to improve my knowledge about Android UI conception (MaterialDesign advice, support libraries, custom views, custom styles, resources ...).
+<!-- ANDROID-DESIGN -->
+<p>
+	<a href="https://github.com/worknrole/android-design" class="content_link" target="_blank">android-design</a>: Contains some user interfaces implementation. Trying to improve my knowledge about Android UI conception (MaterialDesign advice, support libraries, custom views, custom styles, resources ...).
+</p>
 
 <div class="cover">
 	<a target="blank" href="{{ site.designurl }}ui/userprofileconcept">
@@ -10,11 +13,19 @@
 	<div class="ellipsis">profil Concept</div>
 </div>
 
+
+
 <div class="break_float"/><br/>
 
-<a href="https://github.com/worknrole/android-sample" class="content_link" target="_blank">android-sample</a>: Contains samples about android SDK and external libraries.    
 
-*&#126; Testing process:*
+
+<!-- ANDROID-SAMPLE -->
+<p>
+	<a href="https://github.com/worknrole/android-sample" class="content_link" target="_blank">android-sample</a>: Contains samples about android SDK and external libraries. 
+</p>
+   
+
+<p class="subtitle">&#126; Testing process:</p>
 
 <div class="cover">
 	<a target="blank" href="{{ site.testsampleurl }}androidTest/java/com/wornrole/sample">
@@ -22,9 +33,9 @@
 	</a>
 </div>
 
-<div class="break_float"/><br/>
+<div class="break_float"/>
 
-*&#126; External libraries:*
+<p class="subtitle">&#126; External libraries:</p>
 
 <div class="cover">
 	<a target="blank" href="{{ site.externalsampleurl }}retrofit">

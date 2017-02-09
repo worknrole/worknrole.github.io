@@ -37,3 +37,53 @@ a {
 p {
 	text-align: justify;
 }
+
+div.cover {
+	width: 140px;
+	height: 140px;
+	float: left;
+	margin:5px;
+	border-radius: 2px;
+	border: 1px solid #666666;
+}
+
+.cover img {
+	position: absolute;
+	z-index: 1;
+	opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+.cover img:hover {
+	opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+div.ellipsis {
+	width: 120px;
+	font-size:10px;
+	color: #8c8c8c;
+	text-align: center;
+	background-color: white;
+
+	text-transform:uppercase;
+    white-space: nowrap; 
+	text-overflow: ellipsis; 
+    overflow: hidden;
+
+	padding:3px;
+	margin-top: 119px;
+	margin-left: 6px;
+	border-top: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+
+	position: absolute;
+	z-index: 2;
+}
+
+div.break_float {
+	clear: both;
+}

@@ -1,3 +1,5 @@
+<br/>
+
 # Repositories
 
 <!-- ANDROID-DESIGN -->
@@ -39,6 +41,14 @@
    
 
 <p class="subtitle">&#126; Testing process:</p>
+
+<div class="cover">
+	<a href="{{ site.url }}/jenkins.html">
+		<img src="assets/img/cover/jenkins.jpg"/>
+	</a>
+	
+	<div class="ellipsis">Jenkins</div>
+</div>
 
 <div class="cover">
 	<a target="blank" href="{{ site.testsampleurl }}androidTest/java/com/wornrole/sample">

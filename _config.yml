@@ -2,7 +2,7 @@ theme: jekyll-theme-tactile
 title: worknrole.github.io
 description: > 
 baseurl: ""
-url: "http://127.0.0.1:4000"
+url: "https://worknrole.github.io/"
 github_username:  worknrole
 
 coverurl: "assets/img/cover/"

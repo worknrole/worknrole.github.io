@@ -16,11 +16,13 @@
     <div id="container">
       <div class="inner">
 
-        <header class="text-center">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <img class="center" src="../assets/img/logo.png" />
-          <h2>&#152; Let's doing some funny things &#152;</h2>
-        </header>
+        <a class="without_deco" href="{{ site.url }}">
+          <header class="text-center">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <img class="center" src="../assets/img/logo.png" />
+            <h2>&#152; Let's doing some funny things &#152;</h2>
+          </header>
+        </a>
 
         <!-- <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
@@ -30,7 +32,7 @@
           <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
         </section>-->
 
-        <hr>
+        <hr id="sep">
 
         <section id="main_content">
           {{ content }}

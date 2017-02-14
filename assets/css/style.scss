@@ -96,3 +96,61 @@ p {
 p.subtitle {
 	font-style: italic;
 }
+
+div#container_title {
+	width: 100%;
+	margin-left: auto;
+  	margin-right: auto;
+  	background-color: white;
+}
+
+div#container_title img {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+div#container_title h1 {
+	display: block;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin-left: auto;
+  	margin-right: auto;
+	color: white;
+	text-align: center;
+	width: 60%;
+	padding: 6px;
+	font-size: 20px;
+	text-decoration: none;
+	border: 0;
+  	margin-bottom: 10px;
+}
+
+div#container_title h1#jenkins {
+	background-color: #335061;
+}
+
+hr#sep {
+	margin:0;
+	padding:0;
+}
+
+h3 {
+	color: #4d4d4d;
+}
+
+img.config {
+	margin-top: -15px;
+}
+
+p#date {
+	font-size: 11px;
+	text-align: right;
+	font-style: italic;
+}
+
+.without_deco {
+	outline: 0;
+	text-decoration: none;
+}

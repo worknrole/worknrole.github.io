@@ -10,6 +10,7 @@ designurl: "https://github.com/worknrole/android-design/tree/master/design/desig
 externalsampleurl: "https://github.com/worknrole/android-sample/blob/master/sample-project/src/main/java/com/worknrole/sample/externallibraries/"
 googlesampleurl: "https://github.com/worknrole/android-sample/tree/master/sample-project/src/main/java/com/worknrole/sample/android/"
 testsampleurl: "https://github.com/worknrole/android-sample/tree/master/sample-project/src/"
+languagesurl: "https://github.com/worknrole/languages-tour/blob/master/"
 
 # Build settings
 markdown: kramdown

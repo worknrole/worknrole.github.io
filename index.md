@@ -1,6 +1,39 @@
 <br/>
 
-# Repositories
+# Languages tour
+
+<!-- LANGUAGES-TOUR -->
+<p>
+	<a href="https://github.com/worknrole/languages-tour" class="content_link" target="_blank">languages-tour</a>: Basic study of different programing languages.
+</p>
+
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}python.py">
+		<img src="{{ site.coverurl }}python.jpg"/>
+	</a>
+</div>
+
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}ruby.rb">
+		<img src="{{ site.coverurl }}ruby.jpg"/>
+	</a>
+
+	<div class="ellipsis">Ruby</div>
+</div>
+
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}C%23.cs">
+		<img src="{{ site.coverurl }}CSharp.jpg"/>
+	</a>
+</div>
+
+<div class="break_float"/><br/><br/>
+
+
+
+
+
+# Android Development
 
 <!-- ANDROID-DESIGN -->
 <p>

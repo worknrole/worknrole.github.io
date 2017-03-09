@@ -27,6 +27,20 @@
 	</a>
 </div>
 
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}Swift.swift">
+		<img src="{{ site.coverurl }}swift.jpg"/>
+	</a>
+
+	<div class="ellipsis">Swift</div>
+</div>
+
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}Scala.scala">
+		<img src="{{ site.coverurl }}scala.jpg"/>
+	</a>
+</div>
+
 <div class="break_float"/><br/><br/>
 
 

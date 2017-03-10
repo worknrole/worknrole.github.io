@@ -41,6 +41,12 @@
 	</a>
 </div>
 
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}PHP.php">
+		<img src="{{ site.coverurl }}php.jpg"/>
+	</a>
+</div>
+
 <div class="break_float"/><br/><br/>
 
 

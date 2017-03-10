@@ -51,7 +51,7 @@
 
 <!-- ANDROID-DESIGN -->
 <p>
-	<a href="https://github.com/worknrole/android-design" class="content_link" target="_blank">android-design</a>: Contains some user interfaces implementation. Trying to improve my knowledge about Android UI conception (MaterialDesign advice, support libraries, custom views, custom styles, resources ...).
+	<a href="https://github.com/worknrole/android-design" class="content_link" target="_blank">android-design</a>: Android design study &#126; Implementing some user interfaces.
 </p>
 
 <div class="cover">

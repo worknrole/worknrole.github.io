@@ -6,7 +6,7 @@ url: "https://worknrole.github.io/"
 github_username:  worknrole
 
 coverurl: "assets/img/cover/"
-designurl: "https://github.com/worknrole/android-design/tree/master/design/designapp/src/main/java/com/worknrole/design/"
+designurl: "https://github.com/worknrole/android-design/tree/master/designapp/src/main/java/com/worknrole/design/"
 externalsampleurl: "https://github.com/worknrole/android-sample/blob/master/sample-project/src/main/java/com/worknrole/sample/externallibraries/"
 googlesampleurl: "https://github.com/worknrole/android-sample/tree/master/sample-project/src/main/java/com/worknrole/sample/android/"
 testsampleurl: "https://github.com/worknrole/android-sample/tree/master/sample-project/src/"

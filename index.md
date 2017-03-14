@@ -57,7 +57,8 @@
 
 <!-- ANDROID-DESIGN -->
 <p>
-	<a href="https://github.com/worknrole/android-design" class="content_link" target="_blank">android-design</a>: Android design study &#126; Implementing some user interfaces.
+	<a href="https://github.com/worknrole/android-design" class="content_link" target="_blank">android-design</a>: Android design study &#126; Implementing some user interfaces.<br/>
+	[see <a href="https://material.uplabs.com/" class="inside_link" target="_blank">MaterialUp</a> for <b>awesome</b> designs!]
 </p>
 
 <div class="cover">
@@ -66,6 +67,14 @@
 	</a>
 
 	<div class="ellipsis">profil Concept</div>
+</div>
+
+<div class="cover">
+	<a target="blank" href="{{ site.designurl }}ui/qplanningapp">
+		<img src="assets/img/cover/qplanningapp.png"/>
+	</a>
+
+	<div class="ellipsis">Qplanningapp</div>
 </div>
 
 

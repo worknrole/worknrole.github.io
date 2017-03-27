@@ -47,6 +47,14 @@
 	</a>
 </div>
 
+<div class="cover">
+	<a target="blank" href="{{ site.languagesurl }}Kotlin.kt">
+		<img src="{{ site.coverurl }}kotlin.jpg"/>
+	</a>
+
+	<div class="ellipsis">Kotlin</div>
+</div>
+
 <div class="break_float"/><br/><br/>
 
 
